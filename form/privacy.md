@@ -20,7 +20,7 @@ Paylaşmayı veya dışa aktarmayı sen başlatırsın; hedef uygulamayı sen se
 
 ### Silme ve saklama
 
-Antrenman detayından tek bir kaydı, Profil'den tüm FORM kayıtlarını silebilirsin. Sağlık'a yazılan FORM antrenmanlarının silinmesi ayrı bir seçimdir. Uygulamayı silmek Sağlık kayıtlarını veya daha önce dışa aktardığın dosyaları kendiliğinden silmez. Dışa aktardığın dosyaların ve paylaştığın görsellerin kontrolü sendedir.
+Antrenman detayından tek bir kaydı, Profil'den profil, program ve kuvvet/kardiyo geçmişini sıfırlayabilirsin. Bu sıfırlama esneme kayıtlarını ve kişisel videoları kapsamaz. Sağlık'a yazılan FORM antrenmanlarının silinmesi ayrı bir seçimdir. Uygulamayı silmek Sağlık kayıtlarını veya daha önce dışa aktardığın dosyaları kendiliğinden silmez. Dışa aktardığın dosyaların ve paylaştığın görsellerin kontrolü sendedir.
 
 ### Satın alma ve destek
 
@@ -44,7 +44,7 @@ You initiate sharing or export and choose the destination. General workout backu
 
 ### Deletion and retention
 
-Delete individual workouts from their details or reset FORM data from Profile. Deleting FORM workouts in Health is a separate choice. Removing the app does not automatically delete Health records or previously exported files. You control exported files and shared images.
+Delete individual workouts from their details or reset your profile, plans and strength/cardio history from Profile. This reset does not include recovery records or personal clips. Deleting FORM workouts in Health is a separate choice. Removing the app does not automatically delete Health records or previously exported files. You control exported files and shared images.
 
 ### Purchases and support
 
